@@ -9,20 +9,20 @@ Working very simple and easy.
 # Usage
 * Execute Script
 
-          $ chmod +x anonymous.sh
+		$ chmod +x anonymous.sh
 	 
 * To start and stop script
 
-          $ ./anonymous.sh start
+		$ ./anonymous.sh start
 	 
 * Check status
 
-          $ ./anonymous.sh status
+		$ ./anonymous.sh status
 	 
 
 To executable your script everywhere in terminal just add this line into your ~/.bashrc file
 
-         export PATH=$PATH:</path/to/file>
+	export PATH=$PATH:</path/to/file>
 
 # Installation
 - sudo su
