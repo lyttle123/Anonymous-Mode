@@ -26,6 +26,6 @@ To executable your script everywhere in terminal just add this line into your ~/
 
 # Installation
 - sudo su
-- git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
-- chmod +x /usr/bin/katoolin
-- sudo katoolin 
+- git clone https://github.com/t7hm1/Anonymous-Mode.git && cp Anonymous-Mode/anonymous.sh /usr/bin/anonymous
+- chmod +x /usr/bin/anonymous
+- sudo anonymous
