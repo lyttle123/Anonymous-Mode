@@ -3,8 +3,8 @@ This is tool used in BackBox linux (OS for penetration testing and ethical hacki
 on the internet.It can change MAC address,your computer name or host name,hide your IP and connected with Tor network.
 Working very simple and easy.
 
-# Note
-Before you run this script you must start tor network.
+# Required
+* tor
 
 # Usage
 * Execute Script
