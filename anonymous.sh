@@ -30,7 +30,7 @@ BLEACHBIT_CLEANERS="bash.history system.cache system.clipboard system.custom sys
 OVERWRITE="true"
 
 # The default local hostname
-REAL_HOSTNAME="backbox"
+REAL_HOSTNAME="ThEPhant0ms"
 
 # Include default options, if any
 if [ -f /etc/default/anonymous ] ; then
