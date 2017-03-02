@@ -33,8 +33,8 @@ OVERWRITE="true"
 REAL_HOSTNAME="backbox"
 
 # Include default options, if any
-if [ -f /etc/default/backbox-anonymous ] ; then
-	. /etc/default/backbox-anonymous
+if [ -f /etc/default/anonymous ] ; then
+	. /etc/default/anonymous
 fi
 
 warning() {
